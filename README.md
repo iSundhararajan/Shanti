@@ -44,6 +44,4 @@ This repo is the backend for shaanti, a brief description of API end points is g
  
   - diplay complete chat history of the chat room (if user is authenticated)
   
-  all these routes can be tried at: [this]{http://abhigya.pythonanywhere.com/} url
   
-  front end for the application is at: https://github.com/AbhigyaShridhar/shaanti/tree/frontend
