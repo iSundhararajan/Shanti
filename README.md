@@ -9,7 +9,7 @@ Once they are in, they gain access to unlimited real time chat servers where cou
 
 For security, each user has to go through OTP verification which has been implemented with the help of twilio.
 
-This repo is the backend for shaanti, a brief description of API end points is given bellow:
+A brief description of API end points is given below:
 
 ```/otp```
  - sends an otp to the given mobile number and country code
