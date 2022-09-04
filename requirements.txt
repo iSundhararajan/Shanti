@@ -1,0 +1,4 @@
+django
+djangorestframework
+twilio
+python-decouple
