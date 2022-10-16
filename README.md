@@ -1,6 +1,6 @@
 # Shanti
 
-Shanti in Hindi means Peace. This is a platform where people come to find peace. 
+Shanti in Hindi means Peace. This is a platform where people come to find their inner peace. 
 
 Shanti provides all of it's users, a community, a safe space where they can open up and discuss whatever's troubling them.
 
@@ -27,7 +27,7 @@ A brief description of API end points is given below:
  - to authenticate users and grant them access to the platform
  ```
  {
-   "countryCode": "+91",
+   "countryCode": "+1",
    "phone": "1234567890",
    "otp": "123456"
  }
